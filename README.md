@@ -1,24 +1,37 @@
-# Basic-Website
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>
-      this is my first webpage
-    </title>
-  </head>
- 
-  <body>
-   
-  </body>
-  <h1>frist weboage</h1>
-  <h2>this is lower</h2>
-  <p>
-    here is the next website
-  </p>
-  Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC
-  </p>
-  <p>
-    making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of
-  </p>
-  </body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Basic Webpage</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Basic Webpage</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <p>This is a basic webpage template.</p>
+        </section>
+        
+        <section>
+            <h2>Contact Us</h2>
+            <p>You can reach us at example@email.com.</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2023 My Basic Webpage</p>
+    </footer>
+</body>
 </html>
